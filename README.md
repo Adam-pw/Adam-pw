@@ -5,6 +5,11 @@
 
 <br>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa7sh6s.gif" alt="adam-pw" /></p>
+
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/adam pithewan" target="blank"><img align="center"
