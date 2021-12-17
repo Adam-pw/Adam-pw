@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
 <h3 align="center">Student at MITS, Gwalior🌟.</h3>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+<br>
 
-- 📫 How to reach me **adampithewan@gmail.com**
-
-- ⚡ Fun fact :- food and anime are the reasons to live.
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
 
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+
+- 🌱 I’m currently learning Web Development and other programming languages
+
+- 📫 How to reach me **adampithewan@gmail.com**
+
+- ⚡ Fun fact :- food and anime are the reasons to live.
 
 <br>
 
@@ -91,11 +97,6 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-pw&" alt="adam-pw" /></p>
-
-<br>
-<h3>Profile Views :-</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> </p>
 
 <br>
 <h3>Trophies :-</h3>
