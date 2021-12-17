@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
 <h3 align="center">Student at MITS, Gwalior🌟.</h3>
 
+- 🌱 I’m currently learning **Web Development and other programming languages**
+
 - 📫 How to reach me **adampithewan@gmail.com**
+
+- ⚡ Fun fact **food and anime are the reasons to live.**
 
 <br>
 
