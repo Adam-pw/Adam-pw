@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **adampithewan@gmail.com**
 
-- ⚡ Fun fact :- food and anime are the reasons to live.
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
 
