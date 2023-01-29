@@ -110,3 +110,5 @@
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+      
+ [![An image of @kvofficialx's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@adampw#)](https://www.holopin.io/@adampw#)
